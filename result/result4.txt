@@ -1,0 +1,28 @@
+The total cost of', 'BI8022 & FE1546', 'is', 63017.23159644196
+The total cost of', 'BI8022 & LR1592', 'is', 45733.399479785665
+The total cost of', 'BI8022 & LR4789', 'is', 45496.57372704579
+The total cost of', 'BI8022 & TK928', 'is', 36061.89228633538
+The total cost of', 'BI8022 & XJ3252', 'is', 48859.47915946956
+The total cost of', 'MM8894 & FE1546', 'is', 42851.54109459027
+The total cost of', 'MM8894 & LR1592', 'is', 25064.613038437787
+The total cost of', 'MM8894 & LR4789', 'is', 28242.45686121977
+The total cost of', 'MM8894 & TK928', 'is', 49570.660818373755
+The total cost of', 'MM8894 & XJ3252', 'is', 49488.51698038125
+The total cost of', 'RS4668 & FE1546', 'is', 108470.76343733523
+The total cost of', 'RS4668 & LR1592', 'is', 86477.15628166709
+The total cost of', 'RS4668 & LR4789', 'is', 97571.4609999177
+The total cost of', 'RS4668 & TK928', 'is', 81052.30344768196
+The total cost of', 'RS4668 & XJ3252', 'is', 60227.59145618041
+The total cost of', 'VR1339 & FE1546', 'is', 49844.464234165825
+The total cost of', 'VR1339 & LR1592', 'is', 54332.404200502824
+The total cost of', 'VR1339 & LR4789', 'is', 51039.52363405414
+The total cost of', 'VR1339 & TK928', 'is', 67897.00416398844
+The total cost of', 'VR1339 & XJ3252', 'is', 50465.6872405065
+The total cost of', 'WC610 & FE1546', 'is', 80420.12503530079
+The total cost of', 'WC610 & LR1592', 'is', 74235.83635706517
+The total cost of', 'WC610 & LR4789', 'is', 75074.87687232064
+The total cost of', 'WC610 & TK928', 'is', 61711.96750755971
+The total cost of', 'WC610 & XJ3252', 'is', 69266.31517750035
+The total number of pairs of the growing aneurysm is', 25
+The average total cost of the pairs of two growing aneurysm is 60098.95
+Total runtime: 22641.760
